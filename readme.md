@@ -1,4 +1,3 @@
-## wow,you can really dance.
+## 并不是代码，只是一个打工人的随笔
 ***
-按<kbd>Ctrl</kbd>+<kbd>K V</kbd>预览Markdown文件  
-~~窃取果实do shopping：我先富了，你呢？~~  
+左转，加速，~~等他回来~~
